@@ -1,0 +1,181 @@
+@media  screen and (max-width:450px) {
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;800&display=swap');
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body {
+        display: block;
+        font-family: 'Poppins', sans-serif;
+    }
+    .logo-dark {
+        margin-left: 16px;
+        margin-top: 16px;
+    }
+    button {
+        /* font-family: Poppins', sans-serif; */
+    }
+    .btn {
+        border-radius: 30px;
+        font-weight: 500px;
+        border: none;
+    }
+    .top-btn {
+        /* display: flex; */
+        float: right;
+        background-color: #13183f;
+        color: #ffffff;
+        margin-top: 16px;
+        margin-right: 16px;
+        width: 110px;
+        height: 35px;
+    }
+    .hero {
+        margin-top: 30px;
+        margin-left: 16px;
+        color: #13183f;
+    }
+    .hero-text {
+        
+        font-size: 46px;
+        font-weight: 800;
+        
+    }
+    .hero-subtext {
+        margin-top: 20px;
+        color: #83869a;
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .middle-btn {
+        background-image: linear-gradient(#f02aa6,#ff6f48);
+        margin-top: 20px;
+        color: #ffffff;
+        width: 167px;
+        height: 56px;
+    }
+    .hero-image {
+        margin-left: 30px;
+        
+    }
+    .image {
+        
+        width: 372;
+        height: 317;
+    }
+    .courses-title {
+        background-image: linear-gradient(#f02aa6,#ff6f48);
+        width: 430px;
+        height: 120px;
+        border-radius: 10px;
+        margin-left: 16px;
+        padding-left: 60px;
+        padding-top: 22px;
+        font-size: 26px;
+        color: white;
+        font-weight: 800;
+    }
+    .grid-container {
+        
+        
+        display: grid;
+        /* border: 1px solid black; */
+        grid-template-columns: 1;
+        margin-left: 16px;
+        row-gap: 50px;
+    }
+    .grid-item {
+        /* border: 1px solid black; */
+        background-color: #ffffff;
+        box-shadow: 11px 9px 52px 7px rgba(81,81,83,0.33);
+-webkit-box-shadow: 11px 9px 52px 7px rgba(81,81,83,0.33);
+-moz-box-shadow: 11px 9px 52px 7px rgba(81,81,83,0.33);
+        border-radius: 10px;
+        height: 280px;
+    }
+    h2 {
+        margin-left: 30px;
+        margin-top: 50px;
+        color: #13183f;
+        font-size: 26px;
+    }
+    .para-text {
+        margin-left: 30px;
+        color: #83869a;
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    .grid-link {
+        color: #f74780;
+        font-size: 20px;
+        margin-left: 30px;
+        margin-top: 30px;
+        font-weight: 500;
+    }
+     .anime-icon {
+    position: relative;
+    top: 80px;
+    left: 27px;
+    /* top: 500px;
+    left: 28px; */
+    }
+    .design {
+        position:relative;
+        /* top: 730px;
+        left: 28px; */
+        top: 410px;
+        right: 33px;
+    } 
+    .photo {
+        position: relative;
+        /* top: 950px;
+        left: 28px; */
+        top: 740px;
+        right: 95px;
+    }
+    .crypto {
+        position: relative;
+        /* top: 1175px;
+        left: 28px; */
+        top: 1070px;
+        right: 155px;
+    }
+    .business {
+        position: relative;
+        /* top: 1400px;
+        left: 28px; */
+        top: 1400px;
+        right: 215px;
+    }
+    .footer {
+        background-color: #13183f;
+        height: 140px;
+        width: 465px;
+
+        margin-top: 100px;
+        box-shadow: -2px -42px 52px 4px rgba(81,81,83,0.33);
+-webkit-box-shadow: -2px -42px 52px 4px rgba(81,81,83,0.33);
+-moz-box-shadow: -2px -42px 52px 4px rgba(81,81,83,0.33);
+
+    }
+    .light-logo {
+        margin-left: 20px;
+        margin-top: 55px;
+    }
+    .foot-link {
+        position: relative;
+        left: 80px;
+        bottom: 45px;
+        margin-left: 200px;
+        border: none;
+        border-radius: 30px;
+        color: #ffffff;
+        width: 160px;
+        height: 52px;
+        background-image: linear-gradient(#4851ff,#f02aa6);
+    }
+}
+/* body {
+    display: none;
+} */
