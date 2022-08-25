@@ -109,6 +109,7 @@
     h2 {
         margin-left: 30px;
         margin-top: 50px;
+        padding-top: 30px;
         color: #13183f;
         font-size: 26px;
     }
@@ -116,18 +117,18 @@
         margin-left: 30px;
         color: #83869a;
         font-size: 17px;
-        margin-top: 20px;
+        margin-top: 40px;
     }
     .grid-link {
         color: #f74780;
         font-size: 20px;
         margin-left: 30px;
-        margin-top: 30px;
+        margin-top: 40px;
         font-weight: 500;
     }
      .anime-icon {
     position: relative;
-    top: 80px;
+    top: 130px;
     left: 27px;
     /* top: 500px;
     left: 28px; */
@@ -136,28 +137,28 @@
         position:relative;
         /* top: 730px;
         left: 28px; */
-        top: 410px;
+        top: 510px;
         right: 33px;
     } 
     .photo {
         position: relative;
         /* top: 950px;
         left: 28px; */
-        top: 740px;
+        top: 890px;
         right: 95px;
     }
     .crypto {
         position: relative;
         /* top: 1175px;
         left: 28px; */
-        top: 1070px;
+        top: 1270px;
         right: 155px;
     }
     .business {
         position: relative;
         /* top: 1400px;
         left: 28px; */
-        top: 1400px;
+        top: 1650px;
         right: 215px;
     }
     .footer {
